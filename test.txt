@@ -1,0 +1,4 @@
+Index of Coincidence is a cryptanalysis
+technique studying the probability of finding
+repeating letters in an encrypted text.
+A text in English language has a, index of coincidence of 0.0667.

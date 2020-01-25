@@ -1,0 +1,16 @@
+compile:
+javac isEnglish.java
+java isEnglish test.txt
+
+C:\Users\ngzhe\IdeaProjects\isEnglish\src>java isEnglish test.txt
+Text: INDEX OF COINCIDENCE IS A CRYPTANALYSIS
+TECHNIQUE STUDYING THE PROBABILITY OF FINDING
+REPEATING LETTERS IN AN ENCRYPTED TEXT.
+A TEXT IN ENGLISH LANGUAGE HAS A, INDEX OF COINCIDENCE OF 0.0667.
+This is an english text
+Index of Coincidence: 0.068
+
+C:\Users\ngzhe\IdeaProjects\isEnglish\src>java isEnglish test2.txt
+Text: HRK PWOF LEWLGE
+This is not an english text
+Index of Coincidence: 0.038
